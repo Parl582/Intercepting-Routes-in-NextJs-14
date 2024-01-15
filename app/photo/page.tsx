@@ -20,9 +20,6 @@ const data = [
   {
     images: "heeheeheheh",
   },
-  {
-    images: "heeheeheheh",
-  },
 ];
 
 export default function page() {
